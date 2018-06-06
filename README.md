@@ -12,17 +12,29 @@ Thanks to : https://www.reddit.com/r/EtherMining/wiki/index and r/Robbbbbbbb
 
 ## INDEX 
 Procurement
+
 Hardware required
+
 GPU Buying Guide
+
 Optional Notes
+
 Assembly
+
 Cables and Connections
+
 Optional Notes
+
 Installation
+
 Setting up Windows in USB
+
 Booting
+
 Mining
+
 Coin selection and wallet
+
 Miner and mining.
 
 
